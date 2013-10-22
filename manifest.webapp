@@ -1,0 +1,15 @@
+{
+  "name": "FFOS Exemplo 01",
+  "description": "Aplicativo de Exemplo",
+  "launch_path": "/app.html",
+  "icons": {
+    "128": "/images/app_icon_128.png",
+    "60": "/images/app_icon_60.png"
+  },
+  "version": "1.0",
+  "developer": {
+    "name": "Telefonica Digital",
+    "url": "http://www.telefonica.com/"
+  },
+  "default_locale": "pt-BR"
+}
